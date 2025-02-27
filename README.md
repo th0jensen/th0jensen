@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Thomas Jensen</h1>
 
-- 🌱 I’m currently learning **Deno, serverless and Rust!**
-
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **me@thojensen.com**
